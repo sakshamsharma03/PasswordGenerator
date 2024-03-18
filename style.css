@@ -1,0 +1,27 @@
+*{
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+box-sizing: border-box;
+}
+body
+{
+    background-color: black;
+}
+.nav{
+    background: #e89078;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15vh 0vb 15vh 0vb;
+    font-family: 'Courier New', Courier, monospace;
+    color:beiges;
+ }
+  
+input#inp.main
+{
+    border-radius: 5rem;
+    outline: none;
+    background-color: antiquewhite;
+}
